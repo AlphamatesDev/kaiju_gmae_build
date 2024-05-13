@@ -1,0 +1,1 @@
+(self.webpackChunkkaiju_app=self.webpackChunkkaiju_app||[]).push([[9432],{9432:()=>{}}]);

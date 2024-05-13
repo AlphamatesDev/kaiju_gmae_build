@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkaiju_app=self.webpackChunkkaiju_app||[]).push([[3213],{3213:(a,p,u)=>{u.r(p),u.d(p,{default:()=>e.n});var e=u(5182)}}]);
